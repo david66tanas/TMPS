@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Adapter", "Adapter\Adapter.csproj", "{84D04318-B7D2-47E6-A3D5-C518DA757D71}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bridge", "Bridge\Bridge.csproj", "{6E26E206-AC9E-4D27-973C-A0505684A5E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator", "Decorator\Decorator.csproj", "{B44FAB7C-8326-4971-B767-DA5E54F8D733}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84D04318-B7D2-47E6-A3D5-C518DA757D71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84D04318-B7D2-47E6-A3D5-C518DA757D71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84D04318-B7D2-47E6-A3D5-C518DA757D71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84D04318-B7D2-47E6-A3D5-C518DA757D71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E26E206-AC9E-4D27-973C-A0505684A5E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E26E206-AC9E-4D27-973C-A0505684A5E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E26E206-AC9E-4D27-973C-A0505684A5E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E26E206-AC9E-4D27-973C-A0505684A5E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B44FAB7C-8326-4971-B767-DA5E54F8D733}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B44FAB7C-8326-4971-B767-DA5E54F8D733}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B44FAB7C-8326-4971-B767-DA5E54F8D733}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B44FAB7C-8326-4971-B767-DA5E54F8D733}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26F284E5-31A8-4D5F-BC1A-B559C7EF244B}
+	EndGlobalSection
+EndGlobal
